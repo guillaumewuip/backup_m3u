@@ -1,0 +1,18 @@
+q
+Q
+quit
+refresh 
+∞
+add http://78.129.224.19/listen.php?ip=78.129.224.19&port=25640
+save
+add http://audio.scdn.arkena.com/11016/fip-midfi128.mp3
+set softvol=true
+set softvol=false
+colorscheme newGreen
+colorscheme jellybeans
+colorscheme gruvbox
+colorscheme green
+colorscheme gray-88
+colorscheme default
+colorscheme 
+colorscheme screenshot
